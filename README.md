@@ -1,11 +1,5 @@
 # Overview
 
-A repository containing files reproducing dVRK labels for Setup Joints(SUJ). This is a variation of original one from dVRK official website [link](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Full-da-Vinci#setup-joints). The repository contains following improvement compared to the previous one:
-
-- Denser ticks for rulers with the accuarcy up to 1 degree.
-- One-side ticks instead of dual-side ones. This avoids the confusion when installing.
-# Overview
-
 A repository containing files reproducing dVRK labels for Set Up Joints(SUJ). This is a variation of original one from dVRK official website [link](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Full-da-Vinci#setup-joints). The repository contains following improvement compared to the previous one:
 
 - Denser ticks for rulers with the accuarcy up to 1 degree.
