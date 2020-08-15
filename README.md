@@ -21,6 +21,10 @@ A repository containing files reproducing dVRK labels for Set Up Joints(SUJ). Th
 - Paste the rulers to the SUJs. 
 (Note that the origin of the printed rulers and handware should be aligned)
 
+like this:
+
+![](https://github.com/CUHK-BRME/dvrk_suj_rulers/wiki/media/cartoon.jpg )
 
 # Modify the souce files
-You can download Inkspace in Linux and edit the source file [link](https://github.com/CUHK-BRME/dvrk_suj_rulers/blob/master/suj-labels.svg). 
+You can download Inkspace in Linux and edit the source file [link](https://github.com/CUHK-BRME/dvrk_suj_rulers/blob/master/suj-labels.svg)
+
